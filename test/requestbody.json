@@ -1,0 +1,35 @@
+{
+    "SA_01": {
+        "test1": {
+            "question": "What is name and dept in the records?",
+            "employee_email": "dummy@thoughtworks.com"
+        },
+        "test2": {
+            "question": "What is name and dept in the records?",
+            "employee_email": "invalid email format"
+        }
+    },
+    "SA_02": {
+        "test2": {
+            "question": 123,
+            "employee_email": 122222
+        }
+    },
+    "SA_03":{
+        "test1":{
+            "employee_email":"dummy@thoughtworks.com",
+            "employee_id":"20723",
+            "question":"What is name and dept in the records?",
+            "intent": "basic details"
+            }
+    },
+    "SA_04":{
+        "test1":{
+            "employee_email":"santhp@thoughtworks.com",
+            "employee_id":"20723",
+            "question":"my salary",
+            "intent": "Salary"
+            }
+    }
+    
+}

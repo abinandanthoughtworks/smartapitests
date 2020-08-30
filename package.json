@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "This project is for adding API test suite for SMART API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "abinandan/rudhra",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.2",
+    "mocha-simple-html-reporter": "^1.1.0"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "save-dev": "0.0.1-security",
+    "sync-request": "^6.1.0"
+  }
+}

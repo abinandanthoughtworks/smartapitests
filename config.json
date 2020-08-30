@@ -1,0 +1,5 @@
+{
+    "smartapi_url": "https://smart-api-dot-hackaton-innovation-team-1.uc.r.appspot.com/v1/smartapi",
+    "zoomapi_url": "http://zoom-smart-api-latest.zoom-smart-api.hackaton-innovation-team-1.uc.r.appspot.com/v1/zoom/smartapi",
+    "peopledata_url":"https://people-smart-api-dot-hackaton-innovation-team-1.uc.r.appspot.com/v1/people/smartapi"
+}
